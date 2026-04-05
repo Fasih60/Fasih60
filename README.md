@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
----
 
 ## 👨‍💻 About Me
 
@@ -16,7 +15,6 @@ I specialize in React, Next.js, Node.js, and TypeScript, focusing on clean archi
 Passionate about continuous learning and solving real-world problems.
 </p>
 
----
 
 ## 🛠️ Tech Stack
 
@@ -100,7 +98,7 @@ Passionate about continuous learning and solving real-world problems.
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 </p>
----
+
 
 ## 📊 GitHub Stats
 
@@ -116,15 +114,6 @@ Passionate about continuous learning and solving real-world problems.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fasih60&theme=dracula&hide_border=true&layout=compact" />
 </p>
 
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fasih60/Fasih60/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ## 💬 Dev Quote
 
@@ -132,7 +121,6 @@ Passionate about continuous learning and solving real-world problems.
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
----
 
 ## 🌐 Connect With Me
 
@@ -143,12 +131,10 @@ Passionate about continuous learning and solving real-world problems.
   <a href="mailto:mirza.fasih99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
 
 <p align="center">
   <img src="https://visitcount.itsvg.in/api?id=Fasih60&icon=3&color=0" />
 </p>
 
----
 
 <h3 align="center">🎉 Thanks for visiting 🙌</h3>
