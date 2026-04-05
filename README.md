@@ -2,7 +2,7 @@
 
 <h3 align="center">MERN Stack Developer | WordPress Developer</h3>
 
-# 💫 About Me:
+# About Me
 I am a results-driven Web Developer with a strong foundation in C++ and hands-on experience in building scalable, high-performance web applications. I specialize in modern technologies such as React, Next.js, Node.js, and TypeScript, with a focus on creating efficient, maintainable, and user-centric solutions. I am committed to continuous learning, adopting industry best practices, and delivering impactful software solutions that solve real-world problems.
 
 
