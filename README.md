@@ -1,7 +1,3 @@
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fasih.rehman.7393) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fasih.rehman.786/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fasih-rehman60/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirza.fasih99@gmail.com) 
-
-
 # 💫 About Me:
 I am a results-driven Web Developer with a strong foundation in C++ and hands-on experience in building scalable, high-performance web applications. I specialize in modern technologies such as React, Next.js, Node.js, and TypeScript, with a focus on creating efficient, maintainable, and user-centric solutions. I am committed to continuous learning, adopting industry best practices, and delivering impactful software solutions that solve real-world problems.
 
@@ -18,7 +14,10 @@ I am a results-driven Web Developer with a strong foundation in C++ and hands-on
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/fasih.rehman.7393) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/fasih.rehman.786/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fasih-rehman60/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mirza.fasih99@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Fasih60&icon=3&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
