@@ -11,8 +11,8 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-I am a results-driven Web Developer with a strong foundation in C++ and hands-on experience in building scalable, high-performance web applications.<br/>
-I specialize in React, Next.js, Node.js, and TypeScript, focusing on clean architecture, performance, and user experience.<br/>
+I am a results-driven Web Developer with a strong foundation in C++ and hands-on experience in building scalable, high-performance web applications.
+I specialize in React, Next.js, Node.js, and TypeScript, focusing on clean architecture, performance, and user experience.
 Passionate about continuous learning and solving real-world problems.
 </p>
 
