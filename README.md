@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300"/>
+</p>
+
 # About Me
 I am a results-driven Web Developer with a strong foundation in C++ and hands-on experience in building scalable, high-performance web applications. I specialize in modern technologies such as React, Next.js, Node.js, and TypeScript, with a focus on creating efficient, maintainable, and user-centric solutions. I am committed to continuous learning, adopting industry best practices, and delivering impactful software solutions that solve real-world problems.
 
