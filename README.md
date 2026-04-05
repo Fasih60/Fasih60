@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Scalable+Web+Apps;Always+Learning+New+Tech&center=true&width=500&height=50">
 </p>
 
---
+---
 
 ## 👨‍💻 About Me
 
