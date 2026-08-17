@@ -32,7 +32,9 @@ I am a passionate and results-driven **Web Developer** with a solid foundation i
   </tr>
 </table>
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
 
 ## 🏆 Featured Projects
 
@@ -49,7 +51,9 @@ A multi-tenant SaaS platform designed for large organizations to track personnel
 ### 🔹 And Many More!
 Feel free to explore my GitHub repositories to discover a wide variety of other projects. I am constantly building, learning, and sharing new code!
 
----
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
 
 ## 🛠️ Tech Stack
 
@@ -123,11 +127,19 @@ Feel free to explore my GitHub repositories to discover a wide variety of other 
 
 
 
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
+
 ## 💬 Dev Quote
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."*
 > <br> &mdash; **Martin Fowler**
 
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<br>
 
 ## 🌐 Connect With Me
 
