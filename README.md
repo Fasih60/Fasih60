@@ -33,7 +33,9 @@ I am a passionate and results-driven **Web Developer** with a solid foundation i
 </table>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="500" />
+</div>
 <br>
 
 ## 🏆 Featured Projects
@@ -52,7 +54,9 @@ A multi-tenant SaaS platform designed for large organizations to track personnel
 Feel free to explore my GitHub repositories to discover a wide variety of other projects. I am constantly building, learning, and sharing new code!
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="500" />
+</div>
 <br>
 
 ## 🛠️ Tech Stack
@@ -128,7 +132,9 @@ Feel free to explore my GitHub repositories to discover a wide variety of other 
 
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="500" />
+</div>
 <br>
 
 ## 💬 Dev Quote
@@ -138,7 +144,9 @@ Feel free to explore my GitHub repositories to discover a wide variety of other 
 
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Developer Coding GIF" width="500" />
+</div>
 <br>
 
 ## 🌐 Connect With Me
